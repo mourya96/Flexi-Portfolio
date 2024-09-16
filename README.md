@@ -1,4 +1,4 @@
-# Portfolio-V2
+# Flexi-Portfolio
 Second iteration of my personal portfolio website
 
 *Looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
