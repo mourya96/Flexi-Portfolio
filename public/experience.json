@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Speech Separation",
+    "logo": "/images/speech.png",
+    "background": "bg-gray-700",
+    "position": "Research Contributor",
+    "start": "Jan",
+    "end": "Oct. 2019",
+    "highlight": "text-orange-400",
+    "points": [
+      "Built a pipeline that can create noisy data by mixing various noise signals with speech signals to generate a noisy audio signal.",
+      "Converted these noisy speech signals into visual data by converting them into spectrogram which can be used to train the model.",
+      "Built a Convolutional Variational AutoEncoder to separate speech signal from noisy audio signal."
+    ]
+  },
+  {
+    "name": "Urban Sound Classification",
+    "logo": "/images/sound-noise.png",
+    "background": "bg-white",
+    "position": "Team Lead",
+    "start": "Jan 2019",
+    "end": "April 2019  ",
+    "highlight": "text-red-400",
+    "points": [
+      "Visualized the audio signals using spectrogram and perform pattern analysis to identify various noise signal",
+      "Created a Convolutional Neural Network that can be used to classify the spectrograms of these noises."
+    ]
+  },
+  {
+    "name": "Iris Recognition.",
+    "logo": "/images/iris.webp",
+    "background": "moving-gradient-2",
+    "blend": "multiply",
+    "position": "Team Lead",
+    "start": "April 2018",
+    "end": "Dec. 2018",
+    "highlight": "text-indigo-400",
+    "points": [
+      "Using daughman's formula, we were able to identify the concentric circles in the eye.",
+      "The image section in these concentric circles are fed into a preprocessing pipeline that will flatten the section and mask it so that we can store it in a database",
+      "Algorithms like cosine similarity is used to find the closest iris to identify it from the database."
+    ]
+  },
+
+  {
+    "name": "Support Ticketing System",
+    "logo": "/images/support.png",
+    "background": "bg-gray-700",
+    "position": "Contributor",
+    "start": "Jan. 2023",
+    "end": "MAy 2023",
+    "highlight": "text-red-400",
+    "points": [
+      "Built a full stack web application to provide support for students",
+      "This webapp can take full advantage of advanced filtering such as tags, search bar etc."
+    ]
+  }
+]
